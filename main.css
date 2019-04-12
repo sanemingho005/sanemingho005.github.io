@@ -1,0 +1,148 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header .row,  
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 { "Sane Ming Ho" 
+  font-weight: 700;
+  margin: 0;
+  font-size:32px
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;      
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+.topthreeparagraphs{       
+  color: red;
+}
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://i1.wp.com/www.mbaprogramsweb.com/wp-content/uploads/2018/06/University%E2%80%93Robert-H-Smith.jpg?w=2200');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+section .row img { 
+  margin: 0 0 30px;
+  width: 100%;
+  
+}
+
+.col-md-6 { 
+  margin: 0 0 30px;
+  font-size: 62px;
+}
+.firstfav {
+  font-size:22px;
+  font-weight: 100;
+  text-align: center; 
+  color: green;
+}
+.secondfav {
+  font-size:25px;
+  font-weight: 200;
+  text-align: center; 
+  color: pink;
+}
+.threefav {
+  font-size:30px;
+  font-weight: 300;
+  text-align: center; 
+  color: yollow;
+}
+.fourfav {
+  font-size:35px;
+  font-weight: 400;
+  text-align: center; 
+  color: blue;
+}
+
+.quotes {
+  font-weight: bold;
+  text-align:center; 
+}
+
+.firstquote {
+  font-size:15px;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.secondquote {
+  font-size:20px;
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+}
+.thirdquote {
+  font-size:25px;
+  color: green;
+  font-family: 'Roboto', sans-serif;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;   
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
