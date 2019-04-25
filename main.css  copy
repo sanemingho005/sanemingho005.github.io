@@ -1,0 +1,158 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 { "Sane Ming Ho"
+  font-weight: 200;
+  margin: 0;
+  font-size:32px
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+.topthreeparagraphs{
+  color: darkgreen;
+}
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://www.whs.gov.hk/res/img/HongKong/overview-1.jpg');
+  background-size: cover;
+  color: black;
+  height: 500px;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+.jumbotron h2 {
+  font-size: 90px;
+  font-weight: 800;
+  margin: 50;
+  color: red;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: red;
+}
+
+section .row img { 
+  margin: 0 0 30px;
+  width: 100%;
+  
+}
+
+.col-md-6 { 
+  margin: 0 0 30px;
+  font-size: 62px;
+}
+.firstfav {
+  font-size:20px;
+  font-weight: 200;
+  text-align: center; 
+  color: blue;
+}
+.secondfav {
+  font-size:20px;
+  font-weight: 200;
+  text-align: center; 
+  color: blue;
+}
+.threefav {
+  font-size:20px;
+  font-weight: 200;
+  text-align: center; 
+  color: red;
+}
+.fourfav {
+  font-size:20px;
+  font-weight: 200;
+  text-align: center; 
+  color: red;
+}
+
+.quotes {
+  font-weight: bold;
+ 
+}
+
+.firstquote {
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.secondquote {
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica,  sans-serif;
+}
+.thirdquote {
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fourquote {
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fivequote {
+  font-size:20px;
+  color: gold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #fbd1d5;
+  text-shadow: none;
+  background-color: #ffffff;
+}
+
+.btn.btn-primary:hover {
+  color: #ffffff;
+  background-color: #fbd1d5;
+}
+
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px; 
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer li img {
+  width: 32px;
+  height: 32px;
+}
