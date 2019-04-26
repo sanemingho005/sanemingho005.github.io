@@ -122,7 +122,7 @@ section .row img {
 .btn.btn-primary {
   border-radius: 90px;
   border: 100px;
-  color: #fbd1d5;
+  color: blue;
   text-shadow: none;
   background-color: #ffffff;
 }
