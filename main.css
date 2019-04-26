@@ -64,25 +64,25 @@ section .row img {
   font-size: 62px;
 }
 .firstfav {
-  font-size:20px;
+  font-size:15px;
   font-weight: 200;
   text-align: center; 
   color: green;
 }
 .secondfav {
-  font-size:20px;
+  font-size:15px;
   font-weight: 200;
   text-align: center; 
   color: green;
 }
 .threefav {
-  font-size:20px;
+  font-size:15px;
   font-weight: 200;
   text-align: center; 
   color: green;
 }
 .fourfav {
-  font-size:20px;
+  font-size:15px;
   font-weight: 200;
   text-align: center; 
   color: green;
